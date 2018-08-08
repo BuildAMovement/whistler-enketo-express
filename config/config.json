@@ -1,0 +1,45 @@
+{
+    "widgets": [
+        "note", 
+        "select-desktop", 
+        "select-mobile", 
+        "autocomplete", 
+        "geo", 
+        "textarea", 
+        "table", 
+        "radio", 
+        "date", 
+        "time", 
+        "datetime", 
+        "compact", 
+        "file", 
+        "draw", 
+        "likert", 
+        "distress", 
+        "horizontal", 
+        "image-view", 
+        "comment", 
+        "image-map", 
+        "date-mobile", 
+        "../../node_modules/enketo-image-customization-widget/image-customization"
+    ], 
+    "__future_widgets_disabled_for_now": [
+        "../../node_modules/enketo-literacy-test-widget/literacywidget"
+    ], 
+    "redis": {
+        "cache": {
+            "host": "redis_cache", 
+            "port": "6379"
+        }, 
+        "main": {
+            "host": "redis_main"
+        }
+    }, 
+    "linked form and data server": {
+        "encryption key": "t3Q9tAZyMYTv3R1YXBd2mG/1GrIxfGSvQlSzB+uX04ImGNeHMWoQbcg3OGZF3CKw+/TM0u1mhCqxn7vtsdJ9ismn2ri7Oojc8N+2WpiOBWLtxhhgAATgW+HfJdWLmRO1IVN7ZBa+/L/m1/7X9anRqzXOQvsAJ+yLmtADL8mvvFmc7INoSN9IpFiTXymPQ07zEVbAdxcP6oIjTWZYCzsEKGBMmx5Tk2POA7oHHobnfIppKgPLIWovuUY1ED3tUDqGEqaB9P5NMQR483VfParl6DpKVy/sYQHbp4s+wNS0bt2/2yHQk2m7hyLo0dRyK9jQr7e2RRG38lGWxX8vMr8xvg==", 
+        "api key": "rOfVTJ4uqeuSPDyhOrbt", 
+        "server url": "", 
+        "name": "Whistler"
+    }, 
+    "app name": "Enketo Express for Whistler"
+}
